@@ -1,0 +1,49 @@
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+
+.clear {
+  padding: 4%;
+  padding-left: 12%;
+  padding-right: 12%;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #ff9130;
+  border-radius: 5px;
+  border: none;
+}
+
+.btn {
+  font-size: 18px;
+  padding: 4%;
+  padding-left: 6%;
+  padding-right: 6%;
+  background-color: #ff9130;
+  border-radius: 5px;
+  border: none;
+}
+
+.digit {
+  font-size: 18px;
+  padding: 4%;
+  padding-left: 6%;
+  padding-right: 6%;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #001524;
+  border: none;
+}
+
+.equal {
+  padding: 4%;
+  padding-left: 19%;
+  padding-right: 19%;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: #ff9130;
+  border-radius: 5px;
+  border: none;
+}
